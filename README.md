@@ -21,22 +21,20 @@ PROJECT OUTLINE
     │   └── README.md      <- Details about final reports and analysis
     │ 
     │   
-    ├── src                <- Source code folder for this project
-        │
-        ├── data           <- Datasets used and collected for this project
-        │   
-        ├── docs           <- Folder for Task documentations, Meeting Presentations and task Workflow Documents and Diagrams.
-        │
-        ├── references     <- Data dictionaries, manuals, and all other explanatory references used 
-        │
-        ├── tasks          <- Master folder for all individual task folders
-        │
-        └── results        <- Folder to store Final analysis and modelling results and code.
+    │
+    ├── data           <- Datasets used and collected for this project
+    │   
+    ├── docs           <- Folder for Task documentations, Meeting Presentations and task Workflow Documents and Diagrams.
+    │
+    ├── references     <- Data dictionaries, manuals, and all other explanatory references used 
+    │
+    ├── tasks          <- Master folder for all individual task folders
+    │
+    └── results        <- Folder to store Final analysis and modelling results and code.
 --------
 
 ## Folder Overview
 
-- Reports           - Folder to store all Final Reports of this project
 - Data              - Folder to Store all the data collected and used for this project 
 - Docs              - Folder for Task documentations, Meeting Presentations and task Workflow Documents and Diagrams.
 - References        - Folder to store any referneced code/research papers and other useful documents used for this project
